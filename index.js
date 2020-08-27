@@ -11,4 +11,4 @@ input.addEventListener('click', function(event) {
 
 const= document.addEventListener('click',function(event){
   aler("was cilicked !");
-})
+});
